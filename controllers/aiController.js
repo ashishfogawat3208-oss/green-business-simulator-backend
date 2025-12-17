@@ -1,5 +1,5 @@
 // backend/controllers/aiController.js
-import Simulation from "../models/Simulation.js";
+import Simulation from "../models/simulation.js";
 
 /**
  * AI Controller
