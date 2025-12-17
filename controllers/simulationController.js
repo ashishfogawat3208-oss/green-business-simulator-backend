@@ -1,4 +1,4 @@
-import Simulation from "../models/Simulation.js";
+import Simulation from "../models/simulation.js";
 
 export const runSimulation = async (req, res) => {
   try {
